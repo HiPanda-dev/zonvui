@@ -1,0 +1,34 @@
+
+skeleton.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+QuayMienPhi/Nen
+  rotate: true
+  xy: 2, 2
+  size: 1015, 720
+  orig: 1280, 720
+  offset: 134, 0
+  index: -1
+QuayMienPhi/Text.QuayMP
+  rotate: true
+  xy: 1992, 773
+  size: 244, 48
+  orig: 244, 48
+  offset: 0, 0
+  index: -1
+Sao
+  rotate: false
+  xy: 1347, 448
+  size: 643, 569
+  orig: 643, 623
+  offset: 0, 34
+  index: -1
+Vong
+  rotate: false
+  xy: 724, 396
+  size: 621, 621
+  orig: 643, 623
+  offset: 6, 1
+  index: -1

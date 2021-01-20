@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "1142f222-bc9f-4fb1-83df-de4a98e0e186",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "diceAtlas.old": {
+      "ver": "1.0.4",
+      "uuid": "aa34aa9d-af47-4cf1-85d3-52f93b77b3c7",
+      "rawTextureUuid": "1142f222-bc9f-4fb1-83df-de4a98e0e186",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -179,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1690,
+      "height": 1023,
+      "rawWidth": 2048,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

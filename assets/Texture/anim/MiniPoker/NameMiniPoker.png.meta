@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "07ade081-2502-4648-9743-16147269cdce",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "NameMiniPoker": {
+      "ver": "1.0.4",
+      "uuid": "973debf6-98fd-4efb-b38c-d035529933a1",
+      "rawTextureUuid": "07ade081-2502-4648-9743-16147269cdce",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 178,
+      "height": 75,
+      "rawWidth": 178,
+      "rawHeight": 75,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

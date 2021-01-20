@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "3ae1705e-6a2c-4cc3-979c-d0e5041dd12e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "cards_atlas": {
+      "ver": "1.0.4",
+      "uuid": "95c0ce1d-817c-4532-9b46-635b8f87f0d8",
+      "rawTextureUuid": "3ae1705e-6a2c-4cc3-979c-d0e5041dd12e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -462,
+      "offsetY": 47.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1124,
+      "height": 929,
+      "rawWidth": 2048,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

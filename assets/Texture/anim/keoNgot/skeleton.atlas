@@ -1,0 +1,111 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 2, 47
+  size: 207, 358
+  orig: 207, 358
+  offset: 0, 0
+  index: -1
+Keo
+  rotate: true
+  xy: 935, 150
+  size: 104, 64
+  orig: 104, 64
+  offset: 0, 0
+  index: -1
+Khung
+  rotate: false
+  xy: 579, 57
+  size: 207, 197
+  orig: 207, 198
+  offset: 0, 0
+  index: -1
+KhungSau
+  rotate: false
+  xy: 788, 120
+  size: 145, 134
+  orig: 207, 198
+  offset: 30, 38
+  index: -1
+Ngot
+  rotate: false
+  xy: 788, 55
+  size: 141, 63
+  orig: 141, 63
+  offset: 0, 0
+  index: -1
+No
+  rotate: false
+  xy: 931, 48
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+SangToa
+  rotate: true
+  xy: 362, 64
+  size: 190, 215
+  orig: 190, 215
+  offset: 0, 0
+  index: -1
+T1
+  rotate: false
+  xy: 409, 18
+  size: 44, 44
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+T2
+  rotate: false
+  xy: 141, 4
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+T3
+  rotate: false
+  xy: 2, 2
+  size: 44, 43
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+T4
+  rotate: false
+  xy: 184, 6
+  size: 39, 39
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+T5
+  rotate: false
+  xy: 94, 4
+  size: 45, 41
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+T6
+  rotate: false
+  xy: 362, 18
+  size: 45, 44
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+T7
+  rotate: false
+  xy: 48, 2
+  size: 44, 43
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+T8
+  rotate: false
+  xy: 935, 97
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1

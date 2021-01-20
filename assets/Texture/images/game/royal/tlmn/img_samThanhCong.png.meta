@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "9ab25e37-8f88-44c3-982b-0ed8941eac95",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "img_samThanhCong": {
+      "ver": "1.0.4",
+      "uuid": "e19a779c-b0ca-469a-8b06-90bdfa50e5bb",
+      "rawTextureUuid": "9ab25e37-8f88-44c3-982b-0ed8941eac95",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 241,
+      "height": 60,
+      "rawWidth": 241,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

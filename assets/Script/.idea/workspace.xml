@@ -1,0 +1,1756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/app/lobby/model/vo/sdkBox/FacebookMobileVO.js" description="    {&#10;        initFbProxy: function (proxy) {&#10;    ..." line="17" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="1ea93144-cba4-474c-b453-95b6c178ae19" name="Default" comment="" />
+    <ignored path="Script.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="*.meta" />
+    <ignored path=".vscode" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Script" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SendGetAllCurrentEventCommand.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/lobby/controller/event/SendGetAllCurrentEventCommand.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BottomMenuScene.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/lobby/view/ui/menu/BottomMenuScene.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BottomMenuSceneMediator.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/lobby/view/mediator/menu/BottomMenuSceneMediator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="867">
+              <caret line="51" column="62" selection-start-line="51" selection-start-column="47" selection-end-line="51" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShopSceneMediator.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/lobby/view/mediator/shop/ShopSceneMediator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" column="49" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RechargeSceneMediator.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/lobby/view/mediator/recharge/RechargeSceneMediator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="45" column="53" selection-start-line="45" selection-start-column="53" selection-end-line="45" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseProxy.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/lobby/model/proxy/base/BaseProxy.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StartupAppCommand.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/lobby/controller/base/StartupAppCommand.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1309">
+              <caret line="77" column="125" selection-start-line="77" selection-start-column="125" selection-end-line="77" selection-end-column="125" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReceiveGetAllCurrentEventCommand.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/lobby/controller/event/ReceiveGetAllCurrentEventCommand.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReceiveGetAllChildShopTypeCommand.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/lobby/controller/shop/ReceiveGetAllChildShopTypeCommand.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="58" selection-start-line="16" selection-start-column="12" selection-end-line="17" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShopProxy.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/lobby/model/proxy/shop/ShopProxy.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Mediator" />
+        <option value="PureGameCommand" />
+        <option value="PureViewPopup" />
+        <option value="JavaScript File" />
+        <option value="GamePureProxy" />
+        <option value="GamePureView" />
+        <option value="GamePureCommand" />
+        <option value="GamePureMediator" />
+        <option value="PureComponent" />
+        <option value="PureView" />
+        <option value="PureMediator" />
+        <option value="PureProxy" />
+        <option value="PureVO" />
+        <option value="PureCommand" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/lobby/controller/recharge/SendConfirmOtpCommand.js" />
+        <option value="$PROJECT_DIR$/app/lobby/controller/recharge/ReceiveConfirmOtpCommand.js" />
+        <option value="$PROJECT_DIR$/app/lobby/controller/login/SendGetUserInfoCommand.js" />
+        <option value="$PROJECT_DIR$/app/lobby/controller/login/ReceiveGetUserInfoCommand.js" />
+        <option value="$PROJECT_DIR$/app/lobby/view/mediator/recharge/RechargePopupMediator.js" />
+        <option value="$PROJECT_DIR$/app/lobby/view/ui/recharge/componnent/TabBank.js" />
+        <option value="$PROJECT_DIR$/app/lobby/controller/recharge/SendRequestBankChargingCommand.js" />
+        <option value="$PROJECT_DIR$/app/lobby/controller/recharge/ReceiveRequestBankChargingCommand.js" />
+        <option value="$PROJECT_DIR$/app/lobby/model/vo/shop/ItemShopVO.js" />
+        <option value="$PROJECT_DIR$/app/lobby/controller/shop/SendGetAllChildShopTypeCommand.js" />
+        <option value="$PROJECT_DIR$/app/lobby/model/vo/shop/data/ItemShopVO.js" />
+        <option value="$PROJECT_DIR$/app/lobby/controller/shop/ReceiveGetShopItemByShopTypeCommand.js" />
+        <option value="$PROJECT_DIR$/app/lobby/model/vo/shop/ShopVO.js" />
+        <option value="$PROJECT_DIR$/app/lobby/view/ui/shop/component/PageShopControl.js" />
+        <option value="$PROJECT_DIR$/app/lobby/view/ui/channel/component/table/TableListControl.js" />
+        <option value="$PROJECT_DIR$/app/lobby/controller/shop/SendGetShopItemByShopTypeCommand.js" />
+        <option value="$PROJECT_DIR$/app/lobby/view/mediator/shop/ConfirmBuyShopItemPopupMediator.js" />
+        <option value="$PROJECT_DIR$/app/lobby/view/ui/shop/ConfirmBuyShopItemPopup.js" />
+        <option value="$PROJECT_DIR$/app/lobby/view/ui/recharge/RechargePopup.js" />
+        <option value="$PROJECT_DIR$/app/lobby/view/ui/shop/component/TabShop.js" />
+        <option value="$PROJECT_DIR$/app/lobby/view/ui/shop/ConfirmBuyItemShopPopup.js" />
+        <option value="$PROJECT_DIR$/app/lobby/controller/shop/SendBuyItemShopCommand.js" />
+        <option value="$PROJECT_DIR$/app/lobby/view/mediator/popup/AlertMediator.js" />
+        <option value="$PROJECT_DIR$/app/lobby/view/ui/popup/Alert.js" />
+        <option value="$PROJECT_DIR$/app/lobby/view/mediator/shop/ConfirmBuyItemShopPopupMediator.js" />
+        <option value="$PROJECT_DIR$/app/lobby/controller/shop/ReceiveBuyItemShopCommand.js" />
+        <option value="$PROJECT_DIR$/app/lobby/controller/shop/ReceiveGetAllChildShopTypeCommand.js" />
+        <option value="$PROJECT_DIR$/app/lobby/controller/shop/SendGetInfoOutMoneyCommand.js" />
+        <option value="$PROJECT_DIR$/app/customNode/dropList/DropListMain.js" />
+        <option value="$PROJECT_DIR$/app/i18n/data/vi.js" />
+        <option value="$PROJECT_DIR$/app/game/tlmn/model/vo/TableTLMNVO.js" />
+        <option value="$PROJECT_DIR$/app/lobby/controller/shop/SendConfirmWithDrawalBankCommand.js" />
+        <option value="$PROJECT_DIR$/app/lobby/controller/shop/ReceiveGetInfoOutMoneyCommand.js" />
+        <option value="$PROJECT_DIR$/app/lobby/model/proxy/shop/ShopProxy.js" />
+        <option value="$PROJECT_DIR$/app/lobby/view/mediator/shop/ShopPopupMediator.js" />
+        <option value="$PROJECT_DIR$/app/lobby/message/LobbyEvent.js" />
+        <option value="$PROJECT_DIR$/app/lobby/view/ui/shop/component/TabWithdrawal.js" />
+        <option value="$PROJECT_DIR$/app/lobby/view/ui/shop/ShopPopup.js" />
+        <option value="$PROJECT_DIR$/app/lobby/view/ui/shop/ConfirmWithDrawalBankPopup.js" />
+        <option value="$PROJECT_DIR$/app/lobby/controller/shop/ReceiveConfirmWithDrawalBankCommand.js" />
+        <option value="$PROJECT_DIR$/app/lobby/view/mediator/shop/ConfirmWithDrawalBankPopupMediator.js" />
+        <option value="$PROJECT_DIR$/app/network/http/model/proxy/HttpRequestProxy.js" />
+        <option value="$PROJECT_DIR$/app/lobby/model/proxy/event/EventProxy.js" />
+        <option value="$PROJECT_DIR$/app/lobby/controller/event/SendGetAllCurrentEventCommand.js" />
+        <option value="$PROJECT_DIR$/app/lobby/controller/base/StartupAppCommand.js" />
+        <option value="$PROJECT_DIR$/app/lobby/controller/event/ReceiveGetAllCurrentEventCommand.js" />
+        <option value="$PROJECT_DIR$/app/lobby/view/ui/menu/BottomMenuScene.js" />
+        <option value="$PROJECT_DIR$/app/lobby/message/LobbyMessage.js" />
+        <option value="$PROJECT_DIR$/app/lobby/view/mediator/menu/BottomMenuSceneMediator.js" />
+        <option value="$PROJECT_DIR$/app/lobby/view/mediator/shop/ShopSceneMediator.js" />
+        <option value="$PROJECT_DIR$/app/lobby/view/mediator/recharge/RechargeSceneMediator.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="app" pattern="!file[Script]:*&amp;&amp;!file:*.meta&amp;&amp;!file[Script]:.idea/*&amp;&amp;!file[Script]:.vscode/*" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="802" />
+    <option name="y" value="477" />
+    <option name="width" value="1061" />
+    <option name="height" value="905" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="app" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType ProjectPane="false" />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="app">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lib">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="network">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lobby">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="view">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ui">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lobby">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="view">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ui">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="menu">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lobby">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="view">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="mediator">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="shop">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lobby">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="view">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="mediator">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="recharge">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lobby">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="view">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="mediator">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lobby">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="model">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="vo">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lobby">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="model">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lobby">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="message">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lobby">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="controller">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="shop">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lobby">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="controller">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lobby">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="controller">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="event">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lobby">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="controller">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="base">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="i18n">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="i18n">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="data">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="game">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="game">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="tlmn">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="view">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ui">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="game">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="tlmn">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="view">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="game">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="tlmn">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="model">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="game">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="tlmn">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="model">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="proxy">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="game">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="tlmn">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="game">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="coregame">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="view">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ui">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="game">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="coregame">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="view">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="game">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="coregame">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="customNode">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="tabView">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="customNode">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="dropList">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="customNode">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lobby">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lobby">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="controller">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Script">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lobby">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="controller">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="base">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Default" />
+      </pane>
+      <pane id="Scratches">
+        <subPane />
+      </pane>
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="SearchEverywhereHistoryKey" value="http&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/network/http/model/proxy/HttpRequestProxy.js&#10;TableTLMNVO&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/game/tlmn/model/vo/TableTLMNVO.js&#10;TLMNVO&#9;null&#9;null&#10;tabl&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/game/coregame/view/ui/PlayerTable.js&#10;PlayerTa&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/game/coregame/view/ui/PlayerTable.js&#10;htt&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/network/http/model/proxy/HttpRequestProxy.js&#10;LobbyEvent&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/lobby/message/LobbyEvent.js&#10;shopPro&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/lobby/model/proxy/shop/ShopProxy.js&#10;alert&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/lobby/view/mediator/popup/AlertMediator.js&#10;LobbyEv&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/lobby/message/LobbyEvent.js&#10;lOBB&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/lobby/message/LobbyMessage.js&#10;TLMNCard&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/game/tlmn/view/ui/TLMNCard.js&#10;cardTL&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/game/tlmn/view/ui/PlaceCardsTLMN.js&#10;channe&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/lobby/view/ui/channel/ChannelScene.js&#10;Lobby&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/lobby/view/ui/lobby/LobbyScene.js&#10;UserVO&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/lobby/model/vo/user/UserVO.js&#10;Component&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/game/coregame/view/ui/composite/Component.js&#10;User&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/lobby/model/proxy/user/UserProxy.js&#10;UserI&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/game/coregame/controller/ReceiveUpdateUserInfoCommand.js&#10;RechargePopupMediator&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/lobby/view/mediator/recharge/RechargePopupMediator.js&#10;RechargePopup &#9;null&#9;null&#10;ReceiveGetPackageSMSChargeCommand&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/lobby/controller/recharge/ReceiveGetPackageSMSChargeCommand.js&#10;recharpro&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/lobby/model/proxy/recharge/RechargeProxy.js&#10;PlayerTL&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/game/tlmn/view/ui/PlayerCardsTLMN.js&#10;ReceiveGetExchangeRateCommand&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/lobby/controller/recharge/ReceiveGetExchangeRateCommand.js&#10;SendGetExchangeRateCommand&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/lobby/controller/recharge/SendGetExchangeRateCommand.js&#10;playerCa&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/game/coregame/view/ui/PlayerCards.js&#10;SendLoginCommand&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/lobby/controller/login/SendLoginCommand.js&#10;loginSce&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/lobby/view/ui/login/LoginScene.js&#10;Lobbyme&#9;null&#9;null&#10;SFSSubMesseage&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/network/sfs/message/SFSSubMesseage.js&#10;BaseCommand&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/lobby/controller/base/BaseCommand.js&#10;bottom&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/lobby/view/ui/menu/BottomMenuScene.js&#10;i18&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/i18n/i18n.js&#10;table&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/game/coregame/view/ui/PlayerTable.js&#10;Login&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/lobby/view/ui/login/LoginScene.js&#10;SFSx&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/network/sfs/controller/reponse/game/SFSXocDiaReponseCommand.js&#10;tableX&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/game/xocDia/model/vo/TableXocDiaVO.js&#10;chann&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/lobby/model/proxy/channel/ChannelProxy.js&#10;tab&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/game/xocDia/model/vo/TableXocDiaVO.js&#10;Repo&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/network/sfs/controller/reponse/game/SFSXocDiaReponseCommand.js&#10;gameX&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/game/xocDia/view/ui/GameXocDia.js&#10;tableVO&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/game/coregame/model/vo/TableVO.js&#10;tableXoc&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/game/xocDia/model/vo/TableXocDiaVO.js&#10;cor&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/game/coregame/view/ui/CoreGame.js&#10;Listbutt&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/game/tlmn/view/ui/ListButtonTLMN.js&#10;TableXoc&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/game/xocDia/model/vo/TableXocDiaVO.js&#10;betX&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/game/xocDia/controller/SendCancelBetXocdiaCommand.js&#10;channel&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/lobby/model/proxy/channel/ChannelProxy.js&#10;channelPro&#9;FILE&#9;file://G:/work/lvc/LVC_Cocos/assets/Script/app/lobby/model/proxy/channel/ChannelProxy.js" />
+    <property name="last_opened_file_path" value="D:/../ost/trang-nguyen/release/TN012_TrangNguyenUnIn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\work\lvc\LVC_Cocos\assets\Script\app\lobby\model\vo\shop\data" />
+      <recent name="G:\work\lvc\LVC_Cocos\assets\Script\app\lobby\controller\login" />
+      <recent name="G:\work\lvc\LVC_Cocos\assets\Script\app\lobby\controller\base" />
+      <recent name="G:\work\lvc\LVC_Cocos\assets\Script\app\game\coregame\controller" />
+      <recent name="G:\work\lvc\LVC_Cocos\assets\Script\app\game\xocDia\controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\LVC_Cocos\assets\Script\app\game\phom\controller" />
+      <recent name="G:\work\lvc\LVC_Cocos\assets\Script\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\PHANCUONG87\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ea93144-cba4-474c-b453-95b6c178ae19" name="Default" comment="" />
+      <created>1477277712273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1477277712273</updated>
+      <workItem from="1477277713925" duration="3805000" />
+      <workItem from="1477292714520" duration="394000" />
+      <workItem from="1477293131374" duration="12387000" />
+      <workItem from="1477362343201" duration="21483000" />
+      <workItem from="1477448157967" duration="4723000" />
+      <workItem from="1477452923417" duration="116000" />
+      <workItem from="1477453059636" duration="4360000" />
+      <workItem from="1477457459631" duration="10282000" />
+      <workItem from="1477535990190" duration="5107000" />
+      <workItem from="1477552815708" duration="11359000" />
+      <workItem from="1477880347973" duration="13350000" />
+      <workItem from="1477967528301" duration="6512000" />
+      <workItem from="1477985606354" duration="5872000" />
+      <workItem from="1477994355941" duration="190000" />
+      <workItem from="1478053936018" duration="19269000" />
+      <workItem from="1478139927950" duration="22004000" />
+      <workItem from="1478225964883" duration="22655000" />
+      <workItem from="1478312741597" duration="8803000" />
+      <workItem from="1478485237988" duration="7123000" />
+      <workItem from="1478493614450" duration="1135000" />
+      <workItem from="1478506279750" duration="8828000" />
+      <workItem from="1478571376728" duration="10871000" />
+      <workItem from="1478590495427" duration="10718000" />
+      <workItem from="1478657304445" duration="13714000" />
+      <workItem from="1478745665845" duration="10456000" />
+      <workItem from="1478831679227" duration="18964000" />
+      <workItem from="1478920016394" duration="2434000" />
+      <workItem from="1479090061779" duration="22369000" />
+      <workItem from="1479175360019" duration="22230000" />
+      <workItem from="1479264388045" duration="539000" />
+      <workItem from="1479265161820" duration="14780000" />
+      <workItem from="1479349184514" duration="683000" />
+      <workItem from="1479367092759" duration="7010000" />
+      <workItem from="1479439181091" duration="13750000" />
+      <workItem from="1479693034164" duration="3124000" />
+      <workItem from="1479701243298" duration="7722000" />
+      <workItem from="1479722963316" duration="1691000" />
+      <workItem from="1479732912855" duration="2319000" />
+      <workItem from="1479745123596" duration="3799000" />
+      <workItem from="1479783118194" duration="2126000" />
+      <workItem from="1479808675278" duration="2913000" />
+      <workItem from="1479895270136" duration="894000" />
+      <workItem from="1479918786460" duration="16000" />
+      <workItem from="1479972599394" duration="8162000" />
+      <workItem from="1480059756193" duration="8235000" />
+      <workItem from="1480127411788" duration="3350000" />
+      <workItem from="1480299746635" duration="12282000" />
+      <workItem from="1480320752285" duration="23000" />
+      <workItem from="1480321667556" duration="1275000" />
+      <workItem from="1480327898143" duration="4166000" />
+      <workItem from="1480387150083" duration="925000" />
+      <workItem from="1480391618667" duration="2488000" />
+      <workItem from="1480404328386" duration="10038000" />
+      <workItem from="1480471056040" duration="22000" />
+      <workItem from="1480478528908" duration="12683000" />
+      <workItem from="1480563648065" duration="19028000" />
+      <workItem from="1480646410848" duration="18174000" />
+      <workItem from="1480694914584" duration="167000" />
+      <workItem from="1480734073520" duration="1158000" />
+      <workItem from="1480773807064" duration="14000" />
+      <workItem from="1480829582727" duration="39000" />
+      <workItem from="1480904839694" duration="18150000" />
+      <workItem from="1480990029631" duration="6349000" />
+      <workItem from="1481012372517" duration="5880000" />
+      <workItem from="1481029432601" duration="245000" />
+      <workItem from="1481076582756" duration="6482000" />
+      <workItem from="1481162655111" duration="22366000" />
+      <workItem from="1481200467786" duration="53000" />
+      <workItem from="1481275004988" duration="5363000" />
+      <workItem from="1481336318856" duration="10365000" />
+      <workItem from="1481460612831" duration="148000" />
+      <workItem from="1481508628143" duration="10181000" />
+      <workItem from="1481533779872" duration="4814000" />
+      <workItem from="1481544405850" duration="52000" />
+      <workItem from="1481552485835" duration="56000" />
+      <workItem from="1481594200712" duration="17911000" />
+      <workItem from="1481685096173" duration="4256000" />
+      <workItem from="1481702135160" duration="1174000" />
+      <workItem from="1481703674942" duration="4978000" />
+      <workItem from="1481724884296" duration="20000" />
+      <workItem from="1481728632665" duration="24000" />
+      <workItem from="1481771152461" duration="895000" />
+      <workItem from="1481775145222" duration="13829000" />
+      <workItem from="1481813020785" duration="28000" />
+      <workItem from="1481858985496" duration="6332000" />
+      <workItem from="1481946839597" duration="556000" />
+      <workItem from="1481947999199" duration="213000" />
+      <workItem from="1481948626798" duration="92000" />
+      <workItem from="1482306107592" duration="9307000" />
+      <workItem from="1482476423847" duration="11830000" />
+      <workItem from="1482547245735" duration="6809000" />
+      <workItem from="1482566149683" duration="1805000" />
+      <workItem from="1482595154329" duration="149000" />
+      <workItem from="1482632161419" duration="610000" />
+      <workItem from="1482718606711" duration="11779000" />
+      <workItem from="1482804277443" duration="18202000" />
+      <workItem from="1482896918748" duration="2304000" />
+      <workItem from="1482978201582" duration="19358000" />
+      <workItem from="1483064858923" duration="6135000" />
+      <workItem from="1483426996610" duration="12368000" />
+      <workItem from="1483495621664" duration="19972000" />
+      <workItem from="1483581987292" duration="20900000" />
+      <workItem from="1483610919101" duration="4672000" />
+      <workItem from="1483668233641" duration="25974000" />
+      <workItem from="1483756020975" duration="9755000" />
+      <workItem from="1483771848852" duration="29000" />
+      <workItem from="1483852287202" duration="676000" />
+      <workItem from="1483927745941" duration="22198000" />
+      <workItem from="1484013946276" duration="20635000" />
+      <workItem from="1484051125747" duration="35000" />
+      <workItem from="1484101481793" duration="12201000" />
+      <workItem from="1484137671397" duration="370000" />
+      <workItem from="1484188524120" duration="841000" />
+      <workItem from="1484208655522" duration="4956000" />
+      <workItem from="1484273293880" duration="6040000" />
+      <workItem from="1484322587624" duration="602000" />
+      <workItem from="1484367827122" duration="2692000" />
+      <workItem from="1484464883524" duration="107000" />
+      <workItem from="1484535909410" duration="22000" />
+      <workItem from="1484543082658" duration="6435000" />
+      <workItem from="1484568952263" duration="623000" />
+      <workItem from="1484620229041" duration="14425000" />
+      <workItem from="1484660971786" duration="59000" />
+      <workItem from="1484706378526" duration="7958000" />
+      <workItem from="1484792404104" duration="11588000" />
+      <workItem from="1484881823206" duration="8554000" />
+      <workItem from="1484901475980" duration="2173000" />
+      <workItem from="1485141083390" duration="2581000" />
+      <workItem from="1485223935822" duration="20000" />
+      <workItem from="1486087528808" duration="17199000" />
+      <workItem from="1486346787132" duration="13058000" />
+      <workItem from="1486433419100" duration="15501000" />
+      <workItem from="1486522168825" duration="10873000" />
+      <workItem from="1486606754860" duration="16898000" />
+      <workItem from="1486692914639" duration="3503000" />
+      <workItem from="1486953565750" duration="89000" />
+      <workItem from="1486953663582" duration="9906000" />
+      <workItem from="1487038494206" duration="2211000" />
+      <workItem from="1487044303451" duration="8058000" />
+      <workItem from="1487068290147" duration="15000" />
+      <workItem from="1487127427570" duration="4692000" />
+      <workItem from="1487147128287" duration="4561000" />
+      <workItem from="1487212516091" duration="5156000" />
+      <workItem from="1487218764229" duration="14992000" />
+      <workItem from="1487296162897" duration="9210000" />
+      <workItem from="1487316772330" duration="6518000" />
+      <workItem from="1487324816292" duration="2417000" />
+      <workItem from="1487410758632" duration="969000" />
+      <workItem from="1487557353066" duration="9635000" />
+      <workItem from="1487574498266" duration="12444000" />
+      <workItem from="1487728850781" duration="14043000" />
+      <workItem from="1487756760903" duration="2386000" />
+      <workItem from="1487814979582" duration="797000" />
+      <workItem from="1487823583884" duration="13793000" />
+      <workItem from="1487902421936" duration="19101000" />
+      <workItem from="1487990013318" duration="1758000" />
+      <workItem from="1488178593146" duration="8560000" />
+      <workItem from="1488248854664" duration="10559000" />
+      <workItem from="1488333380197" duration="16373000" />
+      <workItem from="1488420477459" duration="1307000" />
+      <workItem from="1488422090665" duration="15503000" />
+      <workItem from="1488447400335" duration="3530000" />
+      <workItem from="1488471992695" duration="1260000" />
+      <workItem from="1488506767528" duration="4636000" />
+      <workItem from="1488595741765" duration="10887000" />
+      <workItem from="1488768141410" duration="3252000" />
+      <workItem from="1488789089225" duration="4896000" />
+      <workItem from="1488795754745" duration="3677000" />
+      <workItem from="1488853248684" duration="22398000" />
+      <workItem from="1488944662287" duration="8964000" />
+      <workItem from="1489024202762" duration="23290000" />
+      <workItem from="1489112697731" duration="10951000" />
+      <workItem from="1489201180801" duration="5795000" />
+      <workItem from="1489371694506" duration="15446000" />
+      <workItem from="1489457858654" duration="17035000" />
+      <workItem from="1489544503452" duration="5191000" />
+      <workItem from="1489630739804" duration="16729000" />
+      <workItem from="1489721409509" duration="901000" />
+      <workItem from="1489976326102" duration="7883000" />
+      <workItem from="1489993498643" duration="11024000" />
+      <workItem from="1490062881265" duration="16153000" />
+      <workItem from="1490148737226" duration="15504000" />
+      <workItem from="1490235460813" duration="9854000" />
+      <workItem from="1493002324641" duration="404000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1405414000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="802" y="477" width="1061" height="905" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10178817" sideWeight="0.48479086" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5826002" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.49746513" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10316369" sideWeight="0.57287705" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.49239543" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18844567" sideWeight="0.49746513" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript Compiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07290234" sideWeight="0.42712295" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.49746513" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript Compiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10316369" sideWeight="0.57287705" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.49239543" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18844567" sideWeight="0.49746513" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10178817" sideWeight="0.48479086" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24524716" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07290234" sideWeight="0.42712295" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="34" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/game/binh/view/ui/GameBinh.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="213" column="19" selection-start-line="208" selection-start-column="12" selection-end-line="213" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/controller/shop/ReceiveGetInfoOutMoney.js" />
+    <entry file="file://$PROJECT_DIR$/app/lobby/controller/shop/SendGetInfoOutMoney.js" />
+    <entry file="file://$PROJECT_DIR$/app/lobby/controller/shop/ReceiveBuyItemShopCommand.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/view/mediator/shop/ConfirmBuyItemShopPopupMediator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="62" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/customNode/dropList/DropListMain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="56" column="35" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/view/mediator/login/LoginSceneMediator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/view/ui/login/LoginScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/i18n/data/vi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="49" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/controller/shop/SendGetShopItemByShopTypeCommand.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/controller/shop/SendGetInfoOutMoneyCommand.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="84" selection-start-line="16" selection-start-column="11" selection-end-line="23" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/game/tlmn/view/ui/TLMNCard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/game/tlmn/view/ui/PlayerTableTLMN.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="29" column="15" selection-start-line="29" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/controller/shop/SendBuyItemShopCommand.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/game/tlmn/model/vo/TableTLMNVO.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/game/tlmn/model/proxy/TLMNProxy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="82" selection-start-line="14" selection-start-column="82" selection-end-line="14" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/game/coregame/view/ui/PlayerTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="131" column="6" selection-start-line="131" selection-start-column="6" selection-end-line="131" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/controller/shop/SendConfirmWithDrawalBankCommand.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="29" column="35" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/view/ui/shop/component/TabShop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/customNode/tabView/TabMain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/game/tlmn/view/ui/FakeCardTLMN.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-899">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/game/coregame/view/ui/FakeCard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="145" column="48" selection-start-line="145" selection-start-column="8" selection-end-line="145" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/controller/shop/ReceiveGetInfoOutMoneyCommand.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/view/mediator/shop/ShopPopupMediator.js" />
+    <entry file="file://$PROJECT_DIR$/app/lobby/message/LobbyEvent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/view/ui/shop/component/TabWithdrawal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="35" column="58" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/view/ui/shop/ShopPopup.js" />
+    <entry file="file://$PROJECT_DIR$/app/lobby/view/ui/shop/ConfirmWithDrawalBankPopup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/view/ui/shop/ConfirmBuyItemShopPopup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/controller/shop/ReceiveGetShopItemByShopTypeCommand.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/controller/shop/ReceiveConfirmWithDrawalBankCommand.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/view/mediator/shop/ConfirmWithDrawalBankPopupMediator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="49" column="84" selection-start-line="49" selection-start-column="84" selection-end-line="49" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/view/mediator/event/EventMediator.js" />
+    <entry file="file://$PROJECT_DIR$/app/lobby/model/vo/event/EventVO.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/view/ui/recharge/RechargePopup.js" />
+    <entry file="file://$PROJECT_DIR$/app/lobby/view/ui/event/EventScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/view/mediator/Event/EventSceneMediator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/network/http/model/proxy/HttpRequestProxy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="98" column="26" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/controller/shop/SendGetAllChildShopTypeCommand.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="28" column="93" selection-start-line="22" selection-start-column="11" selection-end-line="28" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/model/proxy/event/EventProxy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/model/proxy/base/BaseProxy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/controller/base/StartupAppCommand.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="77" column="125" selection-start-line="77" selection-start-column="125" selection-end-line="77" selection-end-column="125" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/controller/event/ReceiveGetAllCurrentEventCommand.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/controller/event/SendGetAllCurrentEventCommand.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/model/proxy/shop/ShopProxy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/controller/shop/ReceiveGetAllChildShopTypeCommand.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="58" selection-start-line="16" selection-start-column="12" selection-end-line="17" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/view/ui/menu/BottomMenuScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/message/LobbyMessage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/view/mediator/menu/BottomMenuSceneMediator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="62" selection-start-line="51" selection-start-column="47" selection-end-line="51" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/view/mediator/shop/ShopSceneMediator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="49" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lobby/view/mediator/recharge/RechargeSceneMediator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="45" column="53" selection-start-line="45" selection-start-column="53" selection-end-line="45" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>app</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+          <order>
+            <scope name="app" />
+          </order>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

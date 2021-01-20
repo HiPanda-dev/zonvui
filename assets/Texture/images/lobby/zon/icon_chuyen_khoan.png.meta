@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "5fc7f2da-758c-437b-a043-6b942784d80a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_chuyen_khoan": {
+      "ver": "1.0.4",
+      "uuid": "47e9c7b1-c0af-4f2f-95c3-b8cf72dcb7e7",
+      "rawTextureUuid": "5fc7f2da-758c-437b-a043-6b942784d80a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 221,
+      "height": 35,
+      "rawWidth": 221,
+      "rawHeight": 35,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

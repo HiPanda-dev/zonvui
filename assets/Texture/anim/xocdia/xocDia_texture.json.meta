@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "310e1eb5-51ec-4892-9a03-40805e63b222",
+  "atlasJson": "{\"SubTexture\":[{\"x\":179,\"height\":135,\"name\":\"Tween 4\",\"width\":177,\"y\":0},{\"x\":0,\"height\":135,\"name\":\"Tween 5\",\"width\":177,\"y\":0},{\"x\":0,\"height\":135,\"name\":\"Tween 6\",\"width\":177,\"y\":137},{\"x\":358,\"height\":121,\"name\":\"Duplicate Items Folder/Tween 1\",\"width\":145,\"y\":0},{\"x\":179,\"height\":121,\"name\":\"Tween 2\",\"width\":145,\"y\":137},{\"x\":358,\"height\":121,\"name\":\"Tween 3\",\"width\":145,\"y\":123}],\"name\":\"xocDia_anim\",\"imagePath\":\"xocDia_texture.png\"}",
+  "texture": "44c77c34-2c12-42d2-95d3-7d316c988270",
+  "subMetas": {}
+}

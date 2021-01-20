@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "4adc4c14-cf08-41ee-be8a-e0907e493b1b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "ThanhNgangDuoi": {
+      "ver": "1.0.4",
+      "uuid": "a1bb2e09-b5ae-45e5-a96a-9e6701584349",
+      "rawTextureUuid": "4adc4c14-cf08-41ee-be8a-e0907e493b1b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1280,
+      "height": 208,
+      "rawWidth": 1280,
+      "rawHeight": 208,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

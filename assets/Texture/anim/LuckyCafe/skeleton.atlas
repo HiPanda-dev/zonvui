@@ -1,0 +1,104 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Anim0
+  rotate: false
+  xy: 211, 798
+  size: 220, 180
+  orig: 220, 180
+  offset: 0, 0
+  index: -1
+Anim1
+  rotate: true
+  xy: 2, 168
+  size: 220, 180
+  orig: 220, 180
+  offset: 0, 0
+  index: -1
+Anim2
+  rotate: false
+  xy: 433, 798
+  size: 220, 180
+  orig: 220, 180
+  offset: 0, 0
+  index: -1
+Anim3
+  rotate: false
+  xy: 655, 798
+  size: 220, 180
+  orig: 220, 180
+  offset: 0, 0
+  index: -1
+Anim4
+  rotate: false
+  xy: 211, 616
+  size: 220, 180
+  orig: 220, 180
+  offset: 0, 0
+  index: -1
+Anim5
+  rotate: false
+  xy: 433, 616
+  size: 220, 180
+  orig: 220, 180
+  offset: 0, 0
+  index: -1
+Anim6
+  rotate: false
+  xy: 655, 616
+  size: 220, 180
+  orig: 220, 180
+  offset: 0, 0
+  index: -1
+Anim7
+  rotate: false
+  xy: 194, 434
+  size: 220, 180
+  orig: 220, 180
+  offset: 0, 0
+  index: -1
+BGCafe
+  rotate: false
+  xy: 2, 620
+  size: 207, 358
+  orig: 207, 358
+  offset: 0, 0
+  index: -1
+Cafe
+  rotate: false
+  xy: 194, 395
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+Hoa1
+  rotate: false
+  xy: 2, 390
+  size: 190, 228
+  orig: 190, 228
+  offset: 0, 0
+  index: -1
+Hoa2
+  rotate: false
+  xy: 2, 2
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Lucky
+  rotate: false
+  xy: 416, 558
+  size: 128, 56
+  orig: 128, 56
+  offset: 0, 0
+  index: -1
+NCafe
+  rotate: true
+  xy: 877, 812
+  size: 166, 54
+  orig: 166, 54
+  offset: 0, 0
+  index: -1

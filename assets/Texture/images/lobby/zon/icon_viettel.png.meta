@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "4302ae98-63f7-405f-a3cc-83d732899662",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_viettel": {
+      "ver": "1.0.4",
+      "uuid": "46c6d6ab-e7ba-4fa6-9524-245c0eb3bd79",
+      "rawTextureUuid": "4302ae98-63f7-405f-a3cc-83d732899662",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 161,
+      "height": 116,
+      "rawWidth": 161,
+      "rawHeight": 116,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

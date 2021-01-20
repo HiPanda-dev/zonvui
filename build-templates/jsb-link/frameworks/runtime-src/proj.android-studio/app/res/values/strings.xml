@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">zonvui</string>
+    <string name="FACEBOOK_APP_ID" translatable="false">308567869849125</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN" translatable="false">d772eaf59b92b80cf185b333b8d5dc12</string>
+</resources>

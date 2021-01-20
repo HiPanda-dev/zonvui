@@ -1,0 +1,42 @@
+var Component = require('Component');
+var ResultTableBinh = cc.Class({
+    extends: Component,
+
+    initComponent: function (componentId, container) {
+        Component.prototype.initComponent.call(this, componentId, container);
+    },
+
+    applyLayout: function () {
+
+
+    },
+
+    initialize: function () {
+
+
+    },
+
+    //////////////////////////////////////////////////////////////////////////////////////////////
+    ////////////////////////////////////override////////////////////////////////////////////////
+    //////////////////////////////////////////////////////////////////////////////////////////////
+    snapWithPlayer: function () {
+        var pos = this.tableVO.listPlayerPos[this.seatId];
+        if (pos) {
+            this.container.x = pos.x;
+            this.container.y = pos.y;
+        }
+    },
+
+    //////////////////////////////////////////////////////////////////////////////////////////////
+    //////////////////////////////////////////////////////////////////////////////////////////////
+    //////////////////////////////////////////////////////////////////////////////////////////////
+
+});
+
+ResultTableBinh.create = function (componentId, container) {
+    var component = new ResultTableBinh();
+    component.initComponent(componentId, container);
+    return component;
+};
+
+module.exports = ResultTableBinh;

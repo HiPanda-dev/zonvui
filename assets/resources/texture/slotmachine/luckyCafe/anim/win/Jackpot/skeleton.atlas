@@ -1,0 +1,48 @@
+
+skeleton.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BanhTren
+  rotate: true
+  xy: 399, 69
+  size: 185, 95
+  orig: 185, 95
+  offset: 0, 0
+  index: -1
+DauTay
+  rotate: false
+  xy: 388, 2
+  size: 104, 65
+  orig: 104, 65
+  offset: 0, 0
+  index: -1
+DeBanh
+  rotate: false
+  xy: 204, 176
+  size: 193, 78
+  orig: 193, 78
+  offset: 0, 0
+  index: -1
+Effect
+  rotate: false
+  xy: 2, 54
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+KemDo
+  rotate: false
+  xy: 204, 12
+  size: 182, 74
+  orig: 182, 74
+  offset: 0, 0
+  index: -1
+Name
+  rotate: false
+  xy: 204, 88
+  size: 182, 86
+  orig: 182, 86
+  offset: 0, 0
+  index: -1

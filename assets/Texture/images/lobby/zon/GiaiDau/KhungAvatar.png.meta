@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "f9de0e6f-7f4d-4ffb-a06c-fe825fa7af57",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "KhungAvatar": {
+      "ver": "1.0.4",
+      "uuid": "46ab82c6-ae43-4e4d-b6d8-b9df27a90244",
+      "rawTextureUuid": "f9de0e6f-7f4d-4ffb-a06c-fe825fa7af57",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 215,
+      "height": 59,
+      "rawWidth": 215,
+      "rawHeight": 59,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

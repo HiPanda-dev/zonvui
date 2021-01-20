@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "7ddec4bc-8dcc-4588-a7c8-64b557e5b4d1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "KhungGame": {
+      "ver": "1.0.4",
+      "uuid": "8fce09ab-2256-494f-96ea-8dad87b5214a",
+      "rawTextureUuid": "7ddec4bc-8dcc-4588-a7c8-64b557e5b4d1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 58,
+      "trimY": 2,
+      "width": 1164,
+      "height": 718,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

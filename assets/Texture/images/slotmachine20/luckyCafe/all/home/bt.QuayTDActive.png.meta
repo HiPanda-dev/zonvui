@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "af97c8e8-5b53-4a30-bfc1-857bbc20cbf2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "bt.QuayTDActive": {
+      "ver": "1.0.4",
+      "uuid": "ed3e37c4-0aac-4621-a93d-e27755c92395",
+      "rawTextureUuid": "af97c8e8-5b53-4a30-bfc1-857bbc20cbf2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 197,
+      "height": 213,
+      "rawWidth": 197,
+      "rawHeight": 213,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

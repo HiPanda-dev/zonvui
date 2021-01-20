@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9a7965f1-5787-45b9-af5d-fb8ccffa087c",
+  "atlasJson": "{\"name\":\"Nohu_thanglon\",\"SubTexture\":[{\"name\":\"Symbol 2\",\"x\":1387,\"width\":321,\"y\":352,\"height\":117},{\"name\":\"Symbol 2 copy\",\"x\":1387,\"width\":386,\"y\":471,\"height\":121},{\"name\":\"Symbol 4\",\"x\":1739,\"width\":249,\"y\":0,\"height\":119},{\"name\":\"flare\",\"x\":1387,\"width\":351,\"y\":0,\"height\":351},{\"name\":\"Symbol 5\",\"x\":0,\"width\":818,\"y\":0,\"height\":633},{\"name\":\"bg\",\"x\":820,\"width\":565,\"y\":0,\"height\":565},{\"name\":\"light_xoay\",\"x\":1739,\"width\":182,\"y\":121,\"height\":179},{\"name\":\"sao1\",\"x\":1834,\"width\":72,\"y\":301,\"height\":72},{\"name\":\"Symbol 6\",\"x\":1908,\"width\":93,\"y\":332,\"height\":98},{\"name\":\"Symbol 7\",\"x\":1922,\"width\":110,\"y\":121,\"height\":111},{\"name\":\"Symbol 8\",\"x\":1922,\"width\":100,\"y\":233,\"height\":98},{\"name\":\"Symbol 9\",\"x\":1739,\"width\":94,\"y\":301,\"height\":97}],\"imagePath\":\"texture.png\"}",
+  "texture": "fea5daff-22fb-4b67-aa72-768be28ce621",
+  "subMetas": {}
+}

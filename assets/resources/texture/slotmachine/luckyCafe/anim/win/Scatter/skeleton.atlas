@@ -1,0 +1,48 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+De
+  rotate: false
+  xy: 2, 198
+  size: 214, 194
+  orig: 214, 194
+  offset: 0, 0
+  index: -1
+Effect
+  rotate: false
+  xy: 434, 192
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Kem
+  rotate: false
+  xy: 2, 2
+  size: 214, 194
+  orig: 214, 194
+  offset: 0, 0
+  index: -1
+Scatter
+  rotate: false
+  xy: 636, 192
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Socola
+  rotate: false
+  xy: 218, 198
+  size: 214, 194
+  orig: 214, 194
+  offset: 0, 0
+  index: -1
+VongTren
+  rotate: false
+  xy: 218, 2
+  size: 214, 194
+  orig: 214, 194
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+var ResultTableWinWhiteTLMN = require('ResultTableWinWhiteTLMN');
+var ResultTableWinWhiteSam = cc.Class({
+    extends: ResultTableWinWhiteTLMN,
+
+    initComponent: function (componentId, container) {
+        ResultTableWinWhiteTLMN.prototype.initComponent.call(this, componentId, container);
+    },
+
+    applyLayout: function () {
+        ResultTableWinWhiteTLMN.prototype.applyLayout.call(this);
+    },
+
+    initialize: function () {
+        ResultTableWinWhiteTLMN.prototype.initialize.call(this);
+    },
+
+    //////////////////////////////////////////////////////////////////////////////////////////////
+    ////////////////////////////////////override////////////////////////////////////////////////
+    //////////////////////////////////////////////////////////////////////////////////////////////
+
+
+    //////////////////////////////////////////////////////////////////////////////////////////////
+    //////////////////////////////////////////////////////////////////////////////////////////////
+    //////////////////////////////////////////////////////////////////////////////////////////////
+
+});
+
+ResultTableWinWhiteSam.create = function (componentId, container) {
+    var component = new ResultTableWinWhiteSam();
+    component.initComponent(componentId, container);
+    return component;
+};
+
+module.exports = ResultTableWinWhiteSam;

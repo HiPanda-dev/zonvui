@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "a7bc3f10-17e6-4f11-bf8a-2f6ad890a965",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "diceAtlas": {
+      "ver": "1.0.4",
+      "uuid": "4cf86e15-bc9e-4b43-b4fc-32bbe49e8e2a",
+      "rawTextureUuid": "a7bc3f10-17e6-4f11-bf8a-2f6ad890a965",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -179,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1690,
+      "height": 1023,
+      "rawWidth": 2048,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

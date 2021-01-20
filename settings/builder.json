@@ -1,0 +1,53 @@
+{
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "encryptJs": false,
+  "excludeScenes": [
+    "98959c53-3853-41a3-99c9-5d408652fd19",
+    "80e6c1a5-d707-4dbc-9677-1e9f375e4213",
+    "3d279dc4-3e41-4f38-b72a-49b9b94792d4",
+    "a533fc92-2f91-4ea3-baba-0119616e5cd4",
+    "a40ccef9-fac9-4055-a719-909c981ffd89"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": true,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "com.zonvui.club",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "startScene": "526102dd-aa2c-42fc-aacf-7e48604f7ada",
+  "title": "ZonVui",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "appid": "",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "99603654-2850-4a",
+  "zipCompressJs": true,
+  "baidugame": {
+    "appid": "testappid",
+    "orientation": "portrait",
+    "REMOTE_SERVER_ROOT": "",
+    "subContext": ""
+  },
+  "appBundle": false
+}

@@ -1,0 +1,24 @@
+npm install glup
+npm install del
+npm install gulp-shell
+npm install vinyl-source-stream
+npm install vinyl-buffer
+npm install gulp-uglify
+npm install uglify-es
+npm install gulp-sourcemaps
+npm install event-stream
+npm install chalk
+npm install gulp-util
+npm install gulp-plumber
+npm install gulp-optimize-js
+npm install gulp-fb
+npm install gulp-babel
+npm install watchify
+npm install browserify
+npm install babelify
+npm install babel-plugin-transform-es2015-shorthand-properties
+npm install babel-plugin-transform-es2015-template-literals
+npm install babel-plugin-transform-es2015-block-scoping
+npm install babel-plugin-parser-opts
+
+gulp build-html5

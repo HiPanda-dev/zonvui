@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chocolate/HopChoColate
+  rotate: false
+  xy: 625, 2
+  size: 564, 449
+  orig: 564, 449
+  offset: 0, 0
+  index: -1
+Chocolate/SaoSang
+  rotate: false
+  xy: 1270, 929
+  size: 535, 93
+  orig: 535, 93
+  offset: 0, 0
+  index: -1
+Chocolate/TextChocolate
+  rotate: false
+  xy: 2, 329
+  size: 294, 70
+  orig: 294, 70
+  offset: 0, 0
+  index: -1
+Sao
+  rotate: false
+  xy: 625, 453
+  size: 643, 569
+  orig: 643, 623
+  offset: 0, 34
+  index: -1
+Vong
+  rotate: false
+  xy: 2, 401
+  size: 621, 621
+  orig: 643, 623
+  offset: 6, 1
+  index: -1

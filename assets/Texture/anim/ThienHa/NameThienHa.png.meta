@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "b1fb1c82-67dd-4b7c-9a13-2e47c8e6f82c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "NameThienHa": {
+      "ver": "1.0.4",
+      "uuid": "5ac91a86-a839-414a-99d2-f01c65ddebaa",
+      "rawTextureUuid": "b1fb1c82-67dd-4b7c-9a13-2e47c8e6f82c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 199,
+      "height": 55,
+      "rawWidth": 199,
+      "rawHeight": 55,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

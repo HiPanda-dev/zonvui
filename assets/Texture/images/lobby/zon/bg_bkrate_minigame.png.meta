@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "73c473bd-6a14-4072-9c79-bb9c09914319",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "bg_bkrate_minigame": {
+      "ver": "1.0.4",
+      "uuid": "e85a9c51-7905-46c7-8716-392777f731ba",
+      "rawTextureUuid": "73c473bd-6a14-4072-9c79-bb9c09914319",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 62,
+      "height": 150,
+      "rawWidth": 62,
+      "rawHeight": 150,
+      "borderTop": 60,
+      "borderBottom": 41,
+      "borderLeft": 21,
+      "borderRight": 16,
+      "subMetas": {}
+    }
+  }
+}

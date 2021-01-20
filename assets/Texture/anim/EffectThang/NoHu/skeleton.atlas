@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NoHu/BgNoHu
+  rotate: false
+  xy: 2, 1172
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+NoHu/TextNoHu
+  rotate: false
+  xy: 830, 1119
+  size: 137, 51
+  orig: 137, 51
+  offset: 0, 0
+  index: -1
+NoHu/Tien
+  rotate: false
+  xy: 2, 573
+  size: 826, 597
+  orig: 826, 597
+  offset: 0, 0
+  index: -1
+Sao
+  rotate: false
+  xy: 2, 2
+  size: 643, 569
+  orig: 643, 623
+  offset: 0, 34
+  index: -1
+Vong
+  rotate: false
+  xy: 1284, 1271
+  size: 621, 621
+  orig: 643, 623
+  offset: 6, 1
+  index: -1

@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "19d6124e-9531-4520-981b-e3ceee90d3c8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "BetGold3": {
+      "ver": "1.0.4",
+      "uuid": "3c4d9aa3-da52-4066-b5b5-46467579012d",
+      "rawTextureUuid": "19d6124e-9531-4520-981b-e3ceee90d3c8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 180,
+      "height": 107,
+      "rawWidth": 180,
+      "rawHeight": 107,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

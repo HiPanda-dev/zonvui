@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+QuayMienPhi/Text.QuayMP
+  rotate: false
+  xy: 2, 2
+  size: 244, 48
+  orig: 244, 48
+  offset: 0, 0
+  index: -1

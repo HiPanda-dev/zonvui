@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 85
+  size: 207, 159
+  orig: 207, 159
+  offset: 0, 0
+  index: -1
+Ca1
+  rotate: false
+  xy: 2, 2
+  size: 130, 81
+  orig: 130, 81
+  offset: 0, 0
+  index: -1
+Ca2
+  rotate: false
+  xy: 792, 189
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+Ca3
+  rotate: false
+  xy: 134, 23
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+HopVang
+  rotate: false
+  xy: 598, 142
+  size: 112, 102
+  orig: 112, 102
+  offset: 0, 0
+  index: -1
+KhungTren
+  rotate: false
+  xy: 211, 99
+  size: 193, 145
+  orig: 207, 159
+  offset: 7, 12
+  index: -1
+SanHo
+  rotate: false
+  xy: 406, 101
+  size: 190, 143
+  orig: 190, 143
+  offset: 0, 0
+  index: -1
+Sao
+  rotate: false
+  xy: 712, 166
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+skeleton.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BGThienHa
+  rotate: false
+  xy: 2, 83
+  size: 207, 159
+  orig: 207, 159
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 211, 104
+  size: 131, 138
+  orig: 131, 138
+  offset: 0, 0
+  index: -1
+Mat
+  rotate: false
+  xy: 2, 2
+  size: 71, 79
+  orig: 71, 79
+  offset: 0, 0
+  index: -1
+MatBe
+  rotate: false
+  xy: 463, 148
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Mieng
+  rotate: true
+  xy: 463, 175
+  size: 67, 32
+  orig: 67, 32
+  offset: 0, 0
+  index: -1
+MiengBe
+  rotate: true
+  xy: 313, 72
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+Sang
+  rotate: false
+  xy: 211, 3
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1
+TaiPhai
+  rotate: false
+  xy: 75, 39
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+TaiTrai
+  rotate: false
+  xy: 126, 41
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+TuocBe
+  rotate: false
+  xy: 344, 119
+  size: 117, 123
+  orig: 117, 123
+  offset: 0, 0
+  index: -1

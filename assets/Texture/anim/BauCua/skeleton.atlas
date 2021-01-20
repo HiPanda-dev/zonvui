@@ -1,0 +1,48 @@
+
+skeleton.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BgBC
+  rotate: false
+  xy: 2, 95
+  size: 207, 159
+  orig: 207, 159
+  offset: 0, 0
+  index: -1
+BiDuoi
+  rotate: false
+  xy: 211, 116
+  size: 140, 138
+  orig: 140, 138
+  offset: 0, 0
+  index: -1
+BiTren
+  rotate: false
+  xy: 353, 156
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+DotSang
+  rotate: false
+  xy: 353, 76
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+Tien1
+  rotate: true
+  xy: 2, 2
+  size: 91, 83
+  orig: 91, 83
+  offset: 0, 0
+  index: -1
+Tien2
+  rotate: false
+  xy: 87, 23
+  size: 88, 70
+  orig: 88, 70
+  offset: 0, 0
+  index: -1

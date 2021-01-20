@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2ec7734d-b7a3-4cf0-b5b2-3b6c184ab30a",
+  "atlasJson": "{\"name\":\"Nohu1\",\"SubTexture\":[{\"name\":\"Symbol 2\",\"x\":820,\"width\":165,\"y\":180,\"height\":86},{\"name\":\"Symbol 5\",\"x\":0,\"width\":818,\"y\":0,\"height\":633},{\"name\":\"bg\",\"x\":0,\"width\":565,\"y\":635,\"height\":565},{\"name\":\"light_xoay\",\"x\":820,\"width\":182,\"y\":0,\"height\":179},{\"name\":\"Symbol 6\",\"x\":921,\"width\":93,\"y\":478,\"height\":98},{\"name\":\"Symbol 7\",\"x\":820,\"width\":110,\"y\":268,\"height\":111},{\"name\":\"Symbol 8\",\"x\":820,\"width\":100,\"y\":380,\"height\":98},{\"name\":\"Symbol 9\",\"x\":921,\"width\":94,\"y\":380,\"height\":97}],\"imagePath\":\"texture.png\"}",
+  "texture": "a9549590-9b11-4a07-8e00-8d5d8cb56403",
+  "subMetas": {}
+}

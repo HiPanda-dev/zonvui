@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "43aeccec-6a0d-4f0a-a056-83f6b3a3607c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "timeIconLobby": {
+      "ver": "1.0.4",
+      "uuid": "8d06f1be-1f91-4074-a580-d04d8879bf25",
+      "rawTextureUuid": "43aeccec-6a0d-4f0a-a056-83f6b3a3607c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 114,
+      "height": 25,
+      "rawWidth": 114,
+      "rawHeight": 25,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

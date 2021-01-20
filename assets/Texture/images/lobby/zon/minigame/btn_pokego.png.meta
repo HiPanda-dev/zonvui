@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "be2bed98-6dba-4873-847f-e191a0246f46",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "btn_pokego": {
+      "ver": "1.0.4",
+      "uuid": "9cc5e155-506c-4e5f-aa2d-ae2e753b0127",
+      "rawTextureUuid": "be2bed98-6dba-4873-847f-e191a0246f46",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 103,
+      "height": 133,
+      "rawWidth": 103,
+      "rawHeight": 133,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

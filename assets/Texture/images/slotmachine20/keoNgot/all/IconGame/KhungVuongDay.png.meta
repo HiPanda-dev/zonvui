@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "ded9ba29-e16d-4d7e-b714-ade695ab9475",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "KhungVuongDay": {
+      "ver": "1.0.4",
+      "uuid": "e8016df2-d815-43d9-9c26-fd41ebe6fefe",
+      "rawTextureUuid": "ded9ba29-e16d-4d7e-b714-ade695ab9475",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 5,
+      "trimY": 5,
+      "width": 168,
+      "height": 158,
+      "rawWidth": 178,
+      "rawHeight": 168,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

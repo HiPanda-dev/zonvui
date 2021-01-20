@@ -1,0 +1,3 @@
+node version_generator.js -v 1.0.1 -u http://66.42.50.214/zon/remote-assets/ -s build/jsb-link/ -d assets/
+
+node version_generator.js -v 1.0.1 -u http://66.42.50.214/zon/remote-assets/ -s build/jsb-link/ -d remote-assets/

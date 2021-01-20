@@ -1,0 +1,48 @@
+
+skeleton.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light
+  rotate: false
+  xy: 125, 12
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+Nut
+  rotate: false
+  xy: 238, 14
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+Vien1
+  rotate: false
+  xy: 349, 55
+  size: 81, 68
+  orig: 81, 68
+  offset: 0, 0
+  index: -1
+Vien2
+  rotate: false
+  xy: 432, 73
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+Vien3
+  rotate: true
+  xy: 349, 9
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+XoayTron
+  rotate: false
+  xy: 2, 2
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "9995f5b7-9aa3-4a70-b727-569923cec7d0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_honda_city": {
+      "ver": "1.0.4",
+      "uuid": "849f1b6f-6e9d-4838-beee-6232c4979356",
+      "rawTextureUuid": "9995f5b7-9aa3-4a70-b727-569923cec7d0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 309,
+      "height": 191,
+      "rawWidth": 309,
+      "rawHeight": 191,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
